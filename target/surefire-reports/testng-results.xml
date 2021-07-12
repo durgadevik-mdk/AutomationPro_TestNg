@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testng_runner.Test_NG_Automation_Runner" duration-ms="5492" started-at="2021-07-10T08:27:15Z" finished-at="2021-07-10T08:27:21Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="5492" started-at="2021-07-10T08:27:15Z" finished-at="2021-07-10T08:27:21Z">
+      <class name="testng_runner.Test_NG_Automation_Runner">
+        <test-method status="PASS" signature="method1()[pri:0, instance:testng_runner.Test_NG_Automation_Runner@7f63425a]" name="method1" duration-ms="5462" started-at="2021-07-10T08:27:15Z" finished-at="2021-07-10T08:27:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+      </class> <!-- testng_runner.Test_NG_Automation_Runner -->
+    </test> <!-- Command line test -->
+  </suite> <!-- testng_runner.Test_NG_Automation_Runner -->
+</testng-results>
